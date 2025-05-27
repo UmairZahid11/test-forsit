@@ -66,6 +66,8 @@ Retrieve all sales records.
 
 **Get sales by date range**
 GET api/sales/range?start=YYYY-MM-DD&end=YYYY-MM-DD
+
+
 example (api/sales/range?start=2024-05-24&end=2024-05-31)
 Fetch sales between the specified start and end dates.
 
